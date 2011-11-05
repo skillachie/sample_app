@@ -1,6 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.3'
+gem 'will_paginate'
 gem 'gravatar_image_tag'
 
 # Bundle edge Rails instead:

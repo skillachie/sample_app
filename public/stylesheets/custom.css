@@ -1,3 +1,12 @@
+ul.users {
+	margin-top: 1em;
+}
+
+.users li {
+	list-style: none;
+}
+
+
 .container {
   width: 710px;
 }
